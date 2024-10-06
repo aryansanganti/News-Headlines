@@ -20,8 +20,8 @@
     "tailwind-merge": "^2.5.3"
   },
   "engines": {
-  "node": ">=16"
-},
+    "node": ">=16"
+  },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
     "@types/react": "^18.3.3",
